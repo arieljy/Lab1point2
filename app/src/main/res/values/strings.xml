@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1.2 BMI Calculator</string>
+    <string name="nameWeight">Weight (kg)</string>
+    <string name="nameHeight">Height (m)</string>
+    <string name="nameCalc">Calculate</string>
+    <string name="nameReset">Reset</string>
+</resources>
